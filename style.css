@@ -9,7 +9,7 @@ header{
     display: flex;
     justify-content: center;
     background-color:#6f4e37;
-    background-image: url(coffee.jpg);
+    background-image: url(coffee/coffee.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
